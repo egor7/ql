@@ -5,5 +5,5 @@ import (
 )
 
 func S(s string) {
-	fmt.Printf("Привет, %s\n", s)
+	fmt.Printf("Привет %s\n", s)
 }
